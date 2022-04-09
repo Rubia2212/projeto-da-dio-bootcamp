@@ -1,2 +1,2 @@
 # projeto-da-dio-bootcamp
-primeiro-desafio-do-bootcamp-orbi-dio
+primeiro-desafio-do-bootcamp-Orbi-DIO

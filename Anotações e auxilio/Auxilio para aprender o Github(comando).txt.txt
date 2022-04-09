@@ -1,0 +1,6 @@
+Git clone_ o https clone__
+cd e o nome do seu repotorio
+git status
+git add.
+git commit -m"Uma anotação importante e revelante"
+git push origin main
